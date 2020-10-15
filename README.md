@@ -1,2 +1,2 @@
 # pconsole
-console
+enable
